@@ -1,0 +1,2 @@
+prompt_toolkit>=3.0.8
+sqlite3>=3.3.1
