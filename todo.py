@@ -248,9 +248,5 @@ def main():
         except Exception as ex:
                 status = f"An error occurred\n{ex}"
 
-        finally:
-            todo.print_tasks()
-
-
 if __name__ == '__main__':
     main()
